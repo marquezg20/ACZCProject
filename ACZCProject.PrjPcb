@@ -66,17 +66,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZOTNBCWT
 
+[Document2]
+DocumentPath=PowerDelivery.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=INPWOZTB
+
 [Parameter1]
-Name=DrawnBy
-Value=G. Marquez
+Name=Revision
+Value=00A
 
 [Parameter2]
 Name=Project
 Value=ACZCProject
 
 [Parameter3]
-Name=Revision
-Value=00A
+Name=Author
+Value=G. Marquez
 
 [Configuration1]
 Name=Sources
